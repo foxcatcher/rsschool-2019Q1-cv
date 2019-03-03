@@ -1,7 +1,7 @@
 # Summary
 #### Vlad Alexeev
 
-Contacts
+## Contacts
 
 **City**: Bobruisk
 
@@ -10,13 +10,13 @@ Contacts
 **GitHub**: https://github.com/foxcatcher
 
 
-Summary
+## Summary
 
 Start a career frontend developer. Grow into a full-fledged web designer.
 > I want to master design and development.
 
 
-Skills
+## Skills
 
 * Web development on HTML, CSS, JS;
 * Work experience with PHP + SQL (DB);
@@ -24,7 +24,7 @@ Skills
 * Interface Design using Photoshop, Figma, Illustrator.
 
 
-Code example 
+## Code example 
 
 Business card site: https://foxcatcher.github.io/
 > Design - FIGMA, Development - HTML, CSS
@@ -35,14 +35,14 @@ Business card site: https://foxcatcher.github.io/
 Behance: https://www.behance.net/gallery/73209949/pickup-katalog-telefonov
 
 
-Experience
+## Experience
 
 * 1 year working with C#;
 * 1 year working in web development: PHP/HTML/CSS/SQL.
 * Worked in 1C.
 
 
-Education
+## Education
 
 College BSAEC - 4 years
 
@@ -53,4 +53,4 @@ College BSAEC - 4 years
 * 1C
 
 
-English level: 2A
+## English level: 2A
