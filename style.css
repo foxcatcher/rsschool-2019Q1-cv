@@ -72,7 +72,13 @@ h2{
     text-align: center;
     margin: 30px 0 14px 0;
     line-height: 1em;
+    transition: background .5s;
+}
 
+h2:hover{
+    color: #ffffff;
+    background: #845ec2;
+    transition: background .5s;
 }
 
 header{
